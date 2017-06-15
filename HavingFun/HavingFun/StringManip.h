@@ -3,12 +3,18 @@
 #include<iostream>
 #include<string>
 
+#define VOWEL_NUM 5
+
 class StringManip
 {
 protected:
+	char vowels[5];
+	std::string output;
 
 public: 
-	string PigLatin(string input);
+	StringManip();
+	std::string PigLatin(std::string input);
+	void UnitTest();
 };
 
 
