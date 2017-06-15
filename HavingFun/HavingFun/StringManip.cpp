@@ -2,14 +2,20 @@
 #include<iostream>
 #include<string>
 
+#define VERBOSE
 
 StringManip::StringManip()
 {
 	 char vowels[] = { 'a', 'e', 'i', 'o', 'u' };
+	 memcpy(this->vowels, vowels, sizeof(vowels));
 }
 
 std::string StringManip::PigLatin(std::string input)
 {
+#ifdef VERBOSE
+	std::cout << "Called" << std::endl;
+#endif
+
 	std::string tmp;
 	for (int i = 0; i < input.length(); i++)
 	{

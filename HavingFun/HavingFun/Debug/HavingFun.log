@@ -1,5 +1,5 @@
 ﻿  StringManip.cpp
-c:\users\admina\documents\github\funstuff\havingfun\havingfun\stringmanip.cpp(14): warning C4018: '<': signed/unsigned mismatch
-c:\users\admina\documents\github\funstuff\havingfun\havingfun\stringmanip.cpp(27): warning C4018: '<': signed/unsigned mismatch
-  HavingFun.vcxproj -> C:\Users\AdminA\Documents\GitHub\FunStuff\HavingFun\Debug\HavingFun.exe
-  HavingFun.vcxproj -> C:\Users\AdminA\Documents\GitHub\FunStuff\HavingFun\Debug\HavingFun.pdb (Partial PDB)
+c:\users\esposito\documents\github\anthony_searles_funstuff\havingfun\havingfun\stringmanip.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\esposito\documents\github\anthony_searles_funstuff\havingfun\havingfun\stringmanip.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  HavingFun.vcxproj -> C:\Users\Esposito\Documents\GitHub\Anthony_Searles_FunStuff\HavingFun\Debug\HavingFun.exe
+  HavingFun.vcxproj -> C:\Users\Esposito\Documents\GitHub\Anthony_Searles_FunStuff\HavingFun\Debug\HavingFun.pdb (Partial PDB)
